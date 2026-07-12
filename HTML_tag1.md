@@ -1,4 +1,4 @@
-# HTML Basics
+# HTML Notes (Improved)
 
 ## 1. Headings
 HTML provides six heading levels.
